@@ -22,5 +22,12 @@ L - Go RIGHT`
 `number + arrow` - Go to number lines up or down
 
 ## OPTIONS
-set number - Show the number in the lines - ORDER
-set relativenumber - Show the number in the lines based on your current line- like 5 below or top
+`set number` - Show the number in the lines - ORDER
+`set relativenumber` - Show the number in the lines based on your current line- like 5 below or top
+
+## CONFIGURATION
+We need to got to `vi ~/vimrc` to update the vim configuration. I will provide where my own configuration to be easier to maintain.
+
+## FUNCTIONS
+`Crtl + R` - Similar with ctrl + Z + Shith, it is the opposite of the U
+
