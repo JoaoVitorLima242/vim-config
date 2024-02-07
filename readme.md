@@ -1,12 +1,22 @@
 # VIM Hints
 
-## Enter INSERT mode
+## INSERT MODE
+Is the mode that we can code or change files.
+
 `I`- Enter the INSERT mode before the selected character
 `A` - Enter the INSERT mode after the selected character
 `O` - Enter the INSERT mode in a new line below
 `Shift + I` - Enter the INSERT mode at beginning of the line
 `Shift + A` - Enter the INSERT mode at end of the line
 `Shift + O` - Enter the INSERT mode in a new line above
+
+## VISUAL MODE
+Is the mode for selecting
+
+`V` - enter in visual mode
+`D` - deletes select items
+`Y` - copy select items
+`P` - paste select items
 
 ## MOVING
 `H` - Go LEFT 
