@@ -14,8 +14,6 @@ J - Go DOWN
 K - Go UP
 L - Go RIGHT`
 
-## ?
-`U` - Go back in the changes
 
 ## COMMANDS
 `:w` - save the file
@@ -29,5 +27,6 @@ L - Go RIGHT`
 We need to got to `vi ~/vimrc` to update the vim configuration. I will provide where my own configuration to be easier to maintain.
 
 ## FUNCTIONS
+`U` - Go back in the changes
 `Crtl + R` - Similar with ctrl + Z + Shith, it is the opposite of the U
 
