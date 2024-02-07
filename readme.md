@@ -10,9 +10,9 @@
 
 ## MOVING
 `H` - Go LEFT 
-J - Go DOWN
-K - Go UP
-L - Go RIGHT`
+`J` - Go DOWN
+`K` - Go UP
+`L` - Go RIGHT`
 
 
 ## COMMANDS
