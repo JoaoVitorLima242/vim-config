@@ -11,7 +11,7 @@ Is the mode that we can code or change files.
 `Shift + O` - Enter the INSERT mode in a new line above
 
 ## VISUAL MODE
-Is the mode for selecting
+Is the mode is for selecting
 
 `V` - enter in visual mode
 `D` - deletes select items
@@ -22,12 +22,16 @@ Is the mode for selecting
 `H` - Go LEFT 
 `J` - Go DOWN
 `K` - Go UP
-`L` - Go RIGHT`
+`L` - Go RIGHT
 
 
 ## COMMANDS
 `:w` - save the file
 `number + arrow` - Go to number lines up or down
+`Y + Y` - Copy the line
+``D + D` - delete the line
+`Shift + E` - Go to the end of the word
+`$` - Go to the end of the line
 
 ## OPTIONS
 `set number` - Show the number in the lines - ORDER
@@ -39,4 +43,3 @@ We need to got to `vi ~/vimrc` to update the vim configuration. I will provide w
 ## FUNCTIONS
 `U` - Go back in the changes
 `Crtl + R` - Similar with ctrl + Z + Shith, it is the opposite of the U
-
